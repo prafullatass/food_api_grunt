@@ -1,0 +1,46 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasagna",
+      "category": "Pasta",
+      "Ethnicity": "Italian",
+      "barCode" : "0011110111432"
+    },
+    {
+      "id": 2,
+      "name": "French Fires",
+      "category": "side dish",
+      "Ethnicity": "French",
+      "barCode" :"5010228001845"
+    },
+    {
+      "id": 3,
+      "name": "Cheese Pizza",
+      "category": "Pizza",
+      "Ethnicity": "American",
+      "barCode" : "0011110864154"
+    },
+    {
+      "name": "Green Curry",
+      "category": "curry",
+      "Ethnicity": "Thai",
+      "barCode" : "0041498227234",
+      "id": 5
+    },
+    {
+      "name": "Tuscan Soup",
+      "category": "soup",
+      "Ethnicity": "Vegeterian",
+      "id": 6,
+      "barCode":"0011150479547"
+    },
+    {
+      "name": "Massaman curry",
+      "category": "thai",
+      "Ethnicity": "Curry",
+      "id": 7,
+      "barCode" : "0041220944354"
+    }
+  ]
+}
